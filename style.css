@@ -1,0 +1,18 @@
+*{
+    margin: 0;padding: 0;
+
+}
+.container{
+    height: 50vh;
+    width: 50vw;
+    border: 2px solid rgb(128, 90, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    border: 2px solid yellow;
+    height: 10%;
+    width: 10%;
+   list-style: none;
+}
